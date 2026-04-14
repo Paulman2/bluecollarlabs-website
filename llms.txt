@@ -1,0 +1,4 @@
+## Pages
+- [Contact Us - BlueCollar Labs](/contact): Get in touch with BlueCollar Labs. We respond to all inquiries within 24-48 hours. Email us at support@bluecollarlabs.org or visit our office in Middletown, NJ.
+- [Get Involved - BlueCollar Labs](/getinvolved): Join the BlueCollar Labs pilot program, partner with us, donate to our mission, or volunteer your skills. Multiple ways to support AI for America
+- [Products - BlueCollar Labs](/products): Discover AI-powered tools designed specifically for tradesmen. From voice-first inventory tracking to AI security consulting and trade school education.
